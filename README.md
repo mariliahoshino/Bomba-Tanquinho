@@ -120,6 +120,9 @@ O projeto também demonstra como componentes provenientes de outros equipamentos
 
 <img src="https://github.com/mariliahoshino/Bomba-Tanquinho/blob/main/20220427_100916.jpg?raw=true" width="600"> <br>
 
+<img src="https://github.com/mariliahoshino/Bomba-Tanquinho/blob/main/20221127_173132.jpg?raw=true" width="600"> <br>
+
+
 <!--
 
 ```text
